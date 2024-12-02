@@ -25,6 +25,7 @@
 ### 📫 Connect With Me:
 - ✉️ **Email**: [dipalokch@gmail.com](mailto:your.email@example.com)  
 - 💼 **LinkedIn**: [www.linkedin.com/in/abir-chokraborty-a0406a278](#)  
+- 📸 **Instagram**:https://www.instagram.com/frontendabir/
 
 ---
 
