@@ -5,6 +5,7 @@
 🎯 Focused on delivering seamless user experiences with React and Tailwind CSS.  
 🌱 Constantly learning and staying updated with modern web technologies.  
 
+
 ---
 
 ### 🛠 Tech Stack:
@@ -18,7 +19,11 @@
 
 ### 🚀 Featured Projects:
 - **[Eco Adventure Experiences](#)** - A platform showcasing unique outdoor adventures.
-- **[Waffle Delight](#)** - An e-commerce site for selling waffles, built with React and Tailwind CSS.  
+- **[Waffle Delight](#)** - An e-commerce site for selling waffles, built with React and Tailwind CSS.
+- **[Electric Gadget](#)** - An online store for electronic devices, featuring dynamic product pages and cart functionality.  
+- **[Dragon News](#)** - A modern news portal with categorized articles and live updates.  
+- **[Gym Management System](#)** - A dashboard application for managing gym memberships, schedules, and payments.  
+
 
 ---
 
