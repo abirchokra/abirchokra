@@ -16,6 +16,13 @@
 - **Tools & Platforms**: Firebase, npm  
 
 ---
+### 📊 GitHub Stats:
+![Abir GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirchokra&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)  
+
+---
 
 ### 🚀 Featured Projects:
 - **[Eco Adventure Experiences](#)** - A platform showcasing unique outdoor adventures.
