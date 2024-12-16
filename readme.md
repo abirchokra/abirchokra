@@ -1,10 +1,8 @@
 # Hi, I'm Abir Chokraborty 👋  
-### Frontend Developer | MERN Stack Enthusiast  
-
-💡 Passionate about creating elegant and efficient web applications.  
-🎯 Focused on delivering seamless user experiences with React and Tailwind CSS.  
-🌱 Constantly learning and staying updated with modern web technologies.  
-
+MERN Stack Developer | Web Application Enthusiast
+💡 Passionate about building robust and scalable web applications.
+🎯 Focused on delivering seamless user experiences with React, Node.js, Express, and MongoDB.
+🌱 Constantly learning and staying updated with modern web development technologies.
 
 ---
 
