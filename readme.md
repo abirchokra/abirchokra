@@ -5,22 +5,6 @@
 🌱 Constantly learning and staying updated with modern web development technologies.
 
 ---
-
-### 🛠 Tech Stack:
-- **Languages**: HTML, CSS, JavaScript  
-- **Frontend**: ReactJS, Tailwind CSS, DaisyUI  
-- **Backend**: Express.js, Node.js  
-- **Database**: MongoDB  
-- **Tools & Platforms**: Firebase, npm  
-
----
-### 📊 GitHub Stats:
-![Abir GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirchokra&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirchokra&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=abirchokra&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=abirchokra&color=brightgreen)  
----
-
 ## 🛠 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,6 +22,23 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+
+### 📊 GitHub Stats:
+![Abir GitHub Stats](https://github-readme-stats.vercel.app/api?username=abirchokra&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abirchokra&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=abirchokra&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=abirchokra&color=brightgreen)  
+---
+
+### 🛠 Tech Stack:
+- **Languages**: HTML, CSS, JavaScript  
+- **Frontend**: ReactJS, Tailwind CSS, DaisyUI  
+- **Backend**: Express.js, Node.js  
+- **Database**: MongoDB  
+- **Tools & Platforms**: Firebase, npm  
 
 ---
 
