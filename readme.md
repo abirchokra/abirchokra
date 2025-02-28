@@ -40,7 +40,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+
+----
+
+### 🚀 Featured Projects:
+- **[Eco Adventure Experiences](#)** - A platform showcasing unique outdoor adventures.
+- **[Waffle Delight](#)** - An e-commerce site for selling waffles, built with React and Tailwind CSS.
+- **[Electric Gadget](#)** - An online store for electronic devices, featuring dynamic product pages and cart functionality.  
+- **[Dragon News](#)** - A modern news portal with categorized articles and live updates.  
+- **[Gym Management System](#)** - A dashboard application for managing gym memberships, schedules, and payments.  
+
+
 ---
+
 
 ### 📫 Connect With Me:
 - ✉️ **Email**: [dipalokch@gmail.com](mailto:your.email@example.com)  
