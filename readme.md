@@ -13,15 +13,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=abirchokra&color=brightgreen)  
 ---
 
-### 🛠 Tech Stack:
-- **Languages**: HTML, CSS, JavaScript  
-- **Frontend**: ReactJS, Tailwind CSS, DaisyUI  
-- **Backend**: Express.js, Node.js  
-- **Database**: MongoDB  
-- **Tools & Platforms**: Firebase, npm  
-
----
-
 ## 🛠 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
